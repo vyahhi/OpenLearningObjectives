@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
 <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:o="urn:schemas-microsoft-com:office:office"
  xmlns:x="urn:schemas-microsoft-com:office:excel"
@@ -9,17 +10,24 @@
   <LastAuthor>Brandon Dorman</LastAuthor>
   <Created>2014-05-24T14:50:11Z</Created>
   <LastSaved>2015-10-02T17:07:54Z</LastSaved>
-  <Version>14.0</Version>
+  <Version>14.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<<<<<<< HEAD
   <WindowHeight>15380</WindowHeight>
   <WindowWidth>26760</WindowWidth>
   <WindowTopX>31200</WindowTopX>
   <WindowTopY>4300</WindowTopY>
   <TabRatio>600</TabRatio>
+=======
+  <WindowHeight>11115</WindowHeight>
+  <WindowWidth>25605</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+>>>>>>> origin/master
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
  </ExcelWorkbook>
@@ -128,12 +136,21 @@
    </Borders>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
    <Interior/>
+<<<<<<< HEAD
   </Style>
   <Style ss:ID="s78">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="4"/>
    <Borders/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
   </Style>
+=======
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="4"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+>>>>>>> origin/master
   <Style ss:ID="s79">
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -272,7 +289,11 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
+<<<<<<< HEAD
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#DD0806"/>
+=======
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF0000"/>
+>>>>>>> origin/master
   </Style>
   <Style ss:ID="s96">
    <Borders>
@@ -281,7 +302,11 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
+<<<<<<< HEAD
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#DD0806"/>
+=======
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF0000"/>
+>>>>>>> origin/master
   </Style>
   <Style ss:ID="s97">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
@@ -321,6 +346,7 @@
  </Styles>
  <Worksheet ss:Name="Update 9_30_15">
   <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="327" x:FullColumns="1"
+<<<<<<< HEAD
    x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="53"
    ss:DefaultRowHeight="14">
    <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="24"/>
@@ -335,6 +361,22 @@
    <Row ss:AutoFitHeight="0"/>
    <Row ss:AutoFitHeight="0" ss:Height="23">
     <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="String">Open Learning Objectives: K-5 Math</Data></Cell>
+=======
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultColumnWidth="53.25"
+   ss:DefaultRowHeight="14.0625">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:StyleID="s62" ss:Width="687"/>
+   <Column ss:StyleID="s64" ss:Width="80.25"/>
+   <Column ss:StyleID="s64" ss:Width="45.75"/>
+   <Column ss:StyleID="s64" ss:Width="48.75"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="54.75"/>
+   <Column ss:StyleID="s64" ss:Width="101.25"/>
+   <Column ss:StyleID="s64" ss:Width="57"/>
+   <Row ss:AutoFitHeight="0"/>
+   <Row ss:AutoFitHeight="0" ss:Height="23.0625">
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="String">Open Learning Objectives: K-5 MATH</Data></Cell>
+>>>>>>> origin/master
     <Cell ss:Index="4"><Data ss:Type="String">Grade for mapping to Common Core State Standards</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -1584,7 +1626,11 @@
     <Cell ss:StyleID="s73"><Data ss:Type="String">4.NF.2</Data></Cell>
     <Cell ss:StyleID="s73"/>
    </Row>
+<<<<<<< HEAD
    <Row ss:AutoFitHeight="0" ss:Height="28" ss:Hidden="1">
+=======
+   <Row ss:AutoFitHeight="0" ss:Height="27.9375" ss:Hidden="1">
+>>>>>>> origin/master
     <Cell ss:Index="3" ss:StyleID="s85"><Data ss:Type="String">Represent a fraction a/b on a number line diagram by marking off a lengths 1/b from 0. Recognize that the resulting interval has size a/b and that its endpoint locates the number a/b on the number line.</Data></Cell>
     <Cell ss:StyleID="s73"/>
     <Cell ss:StyleID="s73"/>
@@ -2799,7 +2845,11 @@
     <Cell ss:StyleID="s73"/>
     <Cell ss:StyleID="s73"/>
    </Row>
+<<<<<<< HEAD
    <Row ss:AutoFitHeight="0" ss:Height="28" ss:Hidden="1">
+=======
+   <Row ss:AutoFitHeight="0" ss:Height="27.9375" ss:Hidden="1">
+>>>>>>> origin/master
     <Cell ss:Index="3" ss:StyleID="s93"><Data ss:Type="String">Recognize a line of symmetry for a two-dimensional figure as a line across the figure such that the figure can be folded along the line into matching parts</Data></Cell>
     <Cell ss:StyleID="s73"/>
     <Cell ss:StyleID="s73"/>
@@ -2942,7 +2992,6 @@
     <HorizontalResolution>600</HorizontalResolution>
     <VerticalResolution>300</VerticalResolution>
    </Print>
-   <PageLayoutZoom>0</PageLayoutZoom>
    <Selected/>
    <FreezePanes/>
    <FrozenNoSplit/>
@@ -2955,12 +3004,17 @@
     </Pane>
     <Pane>
      <Number>2</Number>
+<<<<<<< HEAD
      <ActiveRow>1</ActiveRow>
+=======
+     <ActiveRow>2</ActiveRow>
+>>>>>>> origin/master
      <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
    <ProtectScenarios>False</ProtectScenarios>
+   <x:PageLayoutZoom>0</x:PageLayoutZoom>
   </WorksheetOptions>
  </Worksheet>
 </Workbook>
