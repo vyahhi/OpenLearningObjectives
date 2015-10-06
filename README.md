@@ -8,10 +8,8 @@ objectives that are structured to make competency-based learning feasible.
 They must be specific, discrete, and demonstrable. Many learning objectives 
 today are not structured in this way, which makes it difficult to use them.
 
-The Learning Accelerator and OpenEd have partnered  
-to create a list of specific learning objectives for K-5 math. These objectives are structured 
-to enable competency-based learning.  They also cover all of the content in the 
-Common Core standards for math.
+[The Learning Accelerator](http://thelearningaccerator.org) and [OpenEd][http://opened.com) have partnered  to create a list of specific learning objectives for K-5 mathematics. These objectives are structured  to enable competency-based learning.  They also cover all of the content in the 
+Common Core standards for math for these grades.
 
 Our goal is to make these available for free for every teacher 
 in the country. We hope this will be helpful for teachers and serve as a starting 
@@ -34,4 +32,7 @@ Check out the XLS spreadsheet and load it in your Excel compatible spreadsheet a
 
 Currently checkins are approved by [Brandon Dorman](mailto:brandon@opened.com) and [Scott Ellis](scott@thelearningaccelerator.org).  We welcome contributions from the wider education community. 
 
-To give feedback post comments,  fork the repository, check out MathLearningObjectives.xml and load into Excel. Make your changes.  Save as MathLearningObjectives.xml and issue a pull request. 
+To give feedback post comments,  fork the repository, check out MathLearningObjectives.xml and load into Excel. Make your changes.  Save as MathLearningObjectives.xml and issue a pull request.
+
+= Futures =
+We will be expanding this effort to cover Middle School and High School math and K-12 English Language Arts.  We will also be providing an open source API to allow querying the structure of these objectives.   Keep an eye on the page for details. 
