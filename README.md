@@ -8,7 +8,7 @@ objectives that are structured to make competency-based learning feasible.
 They must be specific, discrete, and demonstrable. Many learning objectives 
 today are not structured in this way, which makes it difficult to use them.
 
-[The Learning Accelerator](http://thelearningaccerator.org) and [OpenEd][http://opened.com) have partnered  to create a list of specific learning objectives for K-5 mathematics. These objectives are structured  to enable competency-based learning.  They also cover all of the content in the 
+[The Learning Accelerator](http://thelearningaccerator.org) and [OpenEd](http://opened.com) have partnered  to create a list of specific learning objectives for K-5 mathematics. These objectives are structured  to enable competency-based learning.  They also cover all of the content in the 
 Common Core standards for math for these grades.
 
 Our goal is to make these available for free for every teacher 
