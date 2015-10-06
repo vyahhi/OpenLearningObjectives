@@ -26,7 +26,7 @@ on the right
 
 ## How to View the Learning Objectives 
 Check out the XLS spreadsheet and load it in your Excel compatible spreadsheet app.  
-  git co MathLearningObjectives.xls
+  git checkout MathLearningObjectives.xls
 
 ## How To Make Contributions and Give Feedback  
 
