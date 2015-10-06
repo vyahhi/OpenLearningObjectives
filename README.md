@@ -32,7 +32,7 @@ Check out the XLS spreadsheet and load it in your Excel compatible spreadsheet a
 
 Currently checkins are approved by [Brandon Dorman](mailto:brandon@opened.com) and [Scott Ellis](scott@thelearningaccelerator.org).  We welcome contributions from the wider education community. 
 
-To give feedback post comments,  fork the repository, check out MathLearningObjectives.xml and load into Excel. Make your changes.  Save as MathLearningObjectives.xml and issue a pull request.  By using the XML version GitHub (well really git) will be able to merge your proposed changes with the master copy.  That is multiple contributors can make changes to different parts of the spreadsheet.
+To give feedback post comments here.  Or fork this repository, check out MathLearningObjectives.xml and load into Excel. Make your changes.  Save As MathLearningObjectives.xml.  Then issue a pull request to us.  By using the XML version GitHub (well really git) will be able to merge your proposed changes with the master copy.  That is multiple contributors can make changes to different parts of the spreadsheet.
 
 ## Futures 
 We will be expanding this effort to cover Middle School and High School math and K-12 English Language Arts.  We will also be providing an open source API to allow querying the structure of these objectives.   Keep an eye on the page for details. 
