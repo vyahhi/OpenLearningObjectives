@@ -32,7 +32,14 @@ Check out the XLS spreadsheet and load it in your Excel compatible spreadsheet a
 
 Currently checkins are approved by [Brandon Dorman](mailto:brandon@opened.com) and [Scott Ellis](scott@thelearningaccelerator.org).  We welcome contributions from the wider education community. 
 
-To give feedback post comments,  fork the repository, check out MathLearningObjectives.xml and load into Excel. Make your changes.  Save as MathLearningObjectives.xml and issue a pull request.
+To give feedback post comments,  fork the repository, check out MathLearningObjectives.xml and load into Excel. Make your changes.  Save as MathLearningObjectives.xml and issue a pull request.  By using the XML version GitHub (well really git) will be able to merge your proposed changes with the master copy.  That is multiple contributors can make changes to different parts of the spreadsheet.
 
-= Futures =
+## Futures 
 We will be expanding this effort to cover Middle School and High School math and K-12 English Language Arts.  We will also be providing an open source API to allow querying the structure of these objectives.   Keep an eye on the page for details. 
+
+## Frequently Asked Questions
+* why are you using GitHub for this? Why not just post it on a web page?
+While GitHub is primarily used by developers, this allows an easy way for many contributors to collaborate on this project, making it truly open.
+* How is this different from the Common Core State Standards?
+* Why are you really doing this?
+TLA wants to create clearer learning objectives to enable mastery-based learning.  CCSS isn't quite specific enough (see above).  OpenEd's specialty is standard-aligned resources. In some areas CCSS is not concrete enough to provide well aligned resources.  
