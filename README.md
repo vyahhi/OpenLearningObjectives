@@ -23,6 +23,7 @@ content creators offer products that address objectives that are defined in many
 it very difficult for teachers to navigate the complex and growing marketplace to find exactly what they need. 
 And it is very challenging for content creators to define and design targeted at specific needs.
 
+## Goals
 
 [The Learning Accelerator](http://www.learningaccelerator.org) and [OpenEd](http://opened.com) have partnered  to create a list of specific learning objectives for K-5 mathematics. These objectives are structured  to enable competency-based learning.  They also cover all of the content in the 
 Common Core standards for math for these grades.
