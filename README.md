@@ -43,7 +43,7 @@ on the right
 
 ## How to View the Learning Objectives 
 Check out the XLS spreadsheet and load it in your Excel compatible spreadsheet app.  
-  git checkout MathLearningObjectives.xls
+  git checkout MathLearningObjectives.xls or GeometryMO.xls 
 
 ## How To Make Contributions and Give Feedback  
 
